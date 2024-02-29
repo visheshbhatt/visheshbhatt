@@ -13,8 +13,8 @@
 
 <h3>ABOUT ME</h3>
 <p>
-I am <img src="name.png" alt="visheshbhatt" width="140" height="80"/>. Unleashing innovation at the intersection of technology and creativity! <br/><br/>
-I'm your all-around dynamo, a full-stack developer, data maestro, and design virtuoso. With a passion for crafting seamless user experiences and transforming raw data into actionable insights, I thrive on pushing boundaries and creating captivating digital landscapes. 
+I am <img src="name.png" alt="visheshbhatt" width="250" height="150" align="center" margin="0px"/><br/>
+Unleashing innovation at the intersection of technology and creativity!I'm your all-around dynamo, a full-stack developer, data maestro, and design virtuoso. With a passion for crafting seamless user experiences and transforming raw data into actionable insights, I thrive on pushing boundaries and creating captivating digital landscapes. 
 <br/><br/>
 Let's collaborate and bring your visions to life!"
 <br/><br/>
