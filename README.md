@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!! </h1>
 
-![poster](./assets/s6.jpeg)
+![poster](p2.jpeg)
 
 <p></br></p>
 <p align="center">
@@ -13,7 +13,7 @@
 
 <h3>ABOUT ME</h3>
 <p>
-I am <img src="/assets/name.png" alt="visheshbhatt" width="140" height="80"/>. Unleashing innovation at the intersection of technology and creativity! <br/><br/>
+I am <img src="name.png" alt="visheshbhatt" width="140" height="80"/>. Unleashing innovation at the intersection of technology and creativity! <br/><br/>
 I'm your all-around dynamo, a full-stack developer, data maestro, and design virtuoso. With a passion for crafting seamless user experiences and transforming raw data into actionable insights, I thrive on pushing boundaries and creating captivating digital landscapes. 
 <br/><br/>
 Let's collaborate and bring your visions to life!"
